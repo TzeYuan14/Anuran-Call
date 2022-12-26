@@ -20,3 +20,7 @@ create four predictive models including:
 
 to test and predict based on the dataset.
 
+
+#### Decision tree and SVM report: https://express.adobe.com/page/72pigtKl51GGb/
+#### K-nearest neighbours and neural network report: https://express.adobe.com/page/dHcg0nZWcdcsc/
+

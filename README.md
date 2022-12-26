@@ -18,5 +18,5 @@ create four predictive models including:
 - support vector machine
 - neural network
 
-##### to test and predict based on the dataset.
+to test and predict based on the dataset.
 
